@@ -10,4 +10,4 @@ The main questions pertain to the effect of the stimulus type (Simple vs Complex
 
 During test time, you will be asked to interpret these results, including descriptive statistics of the data, including person-specific estimates, population-level estimates, convergence statistics, and about your general understanding of SDT and diffusion model parameters.
 
-Be prepared to re-run your code while you are answering questions.
+I used the help of AI to iron out some issues.
